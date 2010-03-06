@@ -1,0 +1,31 @@
+<?php
+# Copyright (C) 2010 Tomasz Stañczyk, Lab74.org
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Affero General Public License for more details.
+
+/** English (English)
+ *
+ * See the qqq 'language' for message documentation incl. usage of parameters
+ * To improve a translation please visit http://translatewiki.net
+ *
+ * @ingroup Language
+ * @file
+ *
+ */
+
+$s_plugin_jQuery_title = 'jQuery';
+$s_plugin_jQuery_description = 'Provides access to the jQuery library.';
+$s_plugin_jQuery_title = 'jQuery';
+$s_plugin_jQuery_config = 'Configuration';
+$s_plugin_jQuery_use_cdn = 'Use Google CDN';
+$s_plugin_jQuery_use_cdn_info = 'CDN or local usage';
+$s_plugin_jQuery_enabled = 'On';
+$s_plugin_jQuery_disabled = 'Off';
